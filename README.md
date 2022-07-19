@@ -10,7 +10,7 @@
 - ⚡ To read my blog post, checkout [Medium](https://medium.com/@rkraj604-hzb)
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://www.linkedin.com/in/rajesh-kumar-b4bba4157/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=rky2208" alt="rky2208" /></p>
 </div>
