@@ -25,7 +25,7 @@
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=rky2208&theme=radical&hide=glsl,python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rky2208&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rky2208&show_icons=true&theme=radical&line_height=27" alt="rajesh's github stats" />
